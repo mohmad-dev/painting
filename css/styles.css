@@ -2588,7 +2588,7 @@ header .main-header {
     }
     .home .banner .define {
         left: 23px;
-        bottom: 30px;
+        bottom: 0px;
     }
     .main-header .logo img {
         max-width: 46px;
